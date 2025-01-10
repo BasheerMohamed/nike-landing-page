@@ -23,8 +23,7 @@ Welcome to the **Nike Landing Page**, a sleek and modern interface showcasing Re
 ---
 
 ## 📸 **Screenshots**  
-### 💻 Desktop View  
-!![webpage](https://github.com/user-attachments/assets/78922d53-d1a2-4374-a418-8765c91f4432)
+![webpage](https://github.com/user-attachments/assets/78922d53-d1a2-4374-a418-8765c91f4432)
  
 
 ---
